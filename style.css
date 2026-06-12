@@ -965,7 +965,8 @@ a.text-hover:focus:after {
 
 /* - Login
 /*----------------------------------------------*/
-#modallogin .modal-content input.text-input {
+#modallogin .modal-content input.text-input,
+#modalsignup .modal-content input.text-input {
   width: 100%;
   height: 50px;
   background: none;
